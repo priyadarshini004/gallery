@@ -1,0 +1,152 @@
+body{
+    background-color: lavender ;
+    border-style:solid ;
+    border-color: purple;
+    border-width: 20px;
+}
+h2{
+    color: black;
+    text-decoration: overline underline;
+    font-size: 70px;
+    background:linear-gradient( plum,lavender);
+}
+
+.title{
+    text-align: center;
+     font-size: 60px;
+     font-family: 'Tangerine',serif;
+     background: linear-gradient(purple,plum);
+}
+
+.one{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Dancing Script',serif;
+    font-size: 50px;
+    padding: 20px 20px;
+}
+
+.two{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.three{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.four{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.five{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.six{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.seven{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.eight{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script',serif;
+}
+.end{
+    background:linear-gradient(purple,plum);
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.o1{
+   border-radius: 10%;
+   transition: 1s;
+   
+}
+.o1:hover{
+ transform:scale(1.2);
+ box-shadow: 10px 10px 5px;
+ cursor:pointer;
+}
+
+.o2{
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o2:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;   
+    cursor:pointer;
+   }
+ .o3{
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o3:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;
+    cursor:pointer;
+   }
+ .o4
+ {
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o4:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;
+    cursor:pointer;
+   }
+ .o5{
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o5:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;
+    cursor:pointer;
+   }
+ .o6{
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o6:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;
+    cursor:pointer;
+   }
+ .o7{
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o7:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;
+    cursor:pointer;
+   }
+ .o8{
+    border-radius: 10%;
+    transition: 1s;
+ }
+ .o8:hover{
+    transform:scale(1.2);
+    box-shadow: 10px 10px 5px;
+    cursor:pointer;
+   }
+   .container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+   }
+   
